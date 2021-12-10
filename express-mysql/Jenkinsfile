@@ -17,8 +17,8 @@ pipeline {
   environment {
       // General Variables for Pipeline
       PROJECT_ROOT = 'express-mysql/app'
-      EMAIL_ADDRESS = 'san99tiagodevsecops@gmail.com'
-      REGISTRY = 'san99tiago/docker-pirate-express'
+      EMAIL_ADDRESS = 'mipcomputacion@gmail.com'
+      REGISTRY = '103923/docker-pirate-express'
   }
 
   stages {
